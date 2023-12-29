@@ -1,4 +1,3 @@
-[
 {
   "users" : [
     {
@@ -42,7 +41,6 @@
       "username" : "ali" ,
       "message" : "that is good" ,
       "imageId" : 2131165299
-    } ,
+    }
   ]
 }
-]
